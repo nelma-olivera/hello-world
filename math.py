@@ -4,7 +4,7 @@ return x+y
 
 #sub implementation
 def sub(x,y);
-pass
+return x-y             #on bug456
 
 #mul implementation
 def mul(x,y);
