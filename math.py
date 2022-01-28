@@ -8,7 +8,7 @@ return x-y          #remote repo
 
 #mul implementation
 def mul(x,y);
-pass
+return x*y   # local repo
 
 #div implementation
 def div(x,y);
